@@ -29,7 +29,7 @@ body {
 }
 
 .content {
-  background-image:url("./myMsTc.png");
+  background-image:url('./myMsTc.png');
   padding: 0px;
   height: 600px; 
 }
